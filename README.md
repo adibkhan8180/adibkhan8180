@@ -7,28 +7,52 @@
 ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&labelColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/ReactNative-0D1117?style=for-the-badge&logo=reactnative&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Expo](https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Cli](https://img.shields.io/badge/Cli-0D1117?style=for-the-badge&logo=cli&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
+![AWS S3](https://img.shields.io/badge/AWS_S3-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)&nbsp;
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-0D1117?style=for-the-badge&logo=awsamplify&labelColor=0D1117)&nbsp;
+![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&labelColor=0D1117)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Socket.io](https://img.shields.io/badge/Socket.io-0D1117?style=for-the-badge&logo=socket.io&labelColor=0D1117)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&labelColor=0D1117)&nbsp;
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
 ![SCSS/SASS](https://img.shields.io/badge/SASS/SCSS-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Tailwind.CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Bootsrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Material UI](https://img.shields.io/badge/Material_UI-0D1117?style=for-the-badge&logo=mui&labelColor=0D1117)&nbsp;
+![Shadcn](https://img.shields.io/badge/Shadcn_UI-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitLab](https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
+![Ngrok](https://img.shields.io/badge/Ngrok-0D1117?style=for-the-badge&logo=ngrok&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Razorpay](https://img.shields.io/badge/Razorpay-0D1117?style=for-the-badge&logo=razorpay&labelColor=0D1117)&nbsp;
+![MERN Stack](https://img.shields.io/badge/MERN_Stack-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![DSA](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MYSQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 
 ### Studying in this moment:
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&labelColor=0D1117)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117&textColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+
 
 
 
